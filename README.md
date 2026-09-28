@@ -1,1 +1,1 @@
-# Smart_voting-System
+# Smart_voting_System
